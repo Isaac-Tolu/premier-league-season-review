@@ -1,0 +1,30 @@
+SeasonYear,Champion,GamesPlayed,GamesWon,GamesDrawn,GamesLost,Points,TopGoalScorer,MostCleanSheets
+2020/21,Manchester City,38,27,5,6,86,['Harry Kane'],['Ederson']
+2019/20,Liverpool,38,32,3,3,99,['Jamie Vardy'],['Ederson']
+2018/19,Manchester City,38,32,2,4,98,"['Pierre-Emerick Aubameyang', 'Sadio Mané', 'Mohamed Salah']",['Alisson']
+2017/18,Manchester City,38,32,4,2,100,['Mohamed Salah'],['David de Gea']
+2016/17,Chelsea,38,30,3,5,93,['Harry Kane'],['Thibaut Courtois']
+2015/16,Leicester City,38,23,12,3,81,['Harry Kane'],['Petr Cech']
+2014/15,Chelsea,38,26,9,3,87,['Sergio Agüero'],['Joe Hart']
+2013/14,Manchester City,38,27,5,6,86,['Luis Suárez'],"['Petr Cech', 'Wojciech Szczesny']"
+2012/13,Manchester United,38,28,5,5,89,['Robin van Persie'],['Joe Hart']
+2011/12,Manchester City,38,28,5,5,89,['Robin van Persie'],['Joe Hart']
+2010/11,Manchester United,38,23,11,4,80,"['Dimitar Berbatov', 'Carlos Tevez']",['Joe Hart']
+2009/10,Chelsea,38,27,5,6,86,['Didier Drogba'],"['Petr Cech', 'Pepe Reina']"
+2008/09,Manchester United,38,28,6,4,90,['Nicolas Anelka'],['Edwin van der Sar']
+2007/08,Manchester United,38,27,6,5,87,['Cristiano Ronaldo'],['Pepe Reina']
+2006/07,Manchester United,38,28,5,5,89,['Didier Drogba'],['Pepe Reina']
+2005/06,Chelsea,38,29,4,5,91,['Thierry Henry'],['Pepe Reina']
+2004/05,Chelsea,38,29,8,1,95,['Thierry Henry'],['Petr Cech']
+2003/04,Arsenal,38,26,12,0,90,['Thierry Henry'],"['Jens Lehmann', 'Edwin van der Sar']"
+2002/03,Manchester United,38,25,8,5,83,['Ruud van Nistelrooy'],['Brad Friedel']
+2001/02,Arsenal,38,26,9,3,87,['Thierry Henry'],['Nigel Martyn']
+2000/01,Manchester United,38,24,8,6,80,['Jimmy Floyd Hasselbaink'],"['Fabien Barthez', 'Paul Jones', 'Sander Westerveld']"
+1999/00,Manchester United,38,28,7,3,91,['Kevin Phillips'],['Ed de Goey']
+1998/99,Manchester United,38,22,13,3,79,"['Jimmy Floyd Hasselbaink', 'Michael Owen', 'Dwight Yorke']",['David Seaman']
+1997/98,Arsenal,38,23,9,6,78,"['Dion Dublin', 'Michael Owen', 'Chris Sutton']",['Peter Schmeichel']
+1996/97,Manchester United,38,21,12,5,75,['Alan Shearer'],['Nigel Martyn']
+1995/96,Manchester United,38,25,7,6,82,['Alan Shearer'],['Peter Schmeichel']
+1994/95,Blackburn Rovers,42,27,8,7,89,['Alan Shearer'],['Peter Schmeichel']
+1993/94,Manchester United,42,27,11,4,92,['Andrew Cole'],['David Seaman']
+1992/93,Manchester United,42,24,12,6,84,['Teddy Sheringham'],['Bobby Mimms']
